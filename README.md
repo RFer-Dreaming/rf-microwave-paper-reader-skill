@@ -273,4 +273,4 @@ Skill 默认要求单篇论文按以下 12 个部分整理：
 
 ## License
 
-No license is currently specified. Add a license file if you want others to reuse or modify this skill under explicit terms.
+This project is licensed under the MIT License.
