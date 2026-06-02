@@ -1,1 +1,7 @@
+interface:
+  display_name: "RF Antenna Literature Reader"
+  short_description: "Extract engineering notes, figures, tables, metrics, and CST/HFSS guidance from RF antenna papers."
+  default_prompt: "Use $rf-antenna-literature-reader to read this antenna paper and organize the results for CST/HFSS reproduction."
 
+policy:
+  allow_implicit_invocation: true
